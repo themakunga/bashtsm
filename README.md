@@ -36,4 +36,12 @@ consultas a las siguientes cuentas
 + Salvador Maureira B [@Mausarde](https://twitter.com/Mausarde) Query, sesiones y TSM manager
 + Nicolas Martinez V [@_nmartinezv](https://twitter.com/_nmartinezv) Script, aplicaciones y automatizacion
 
+## Repository reference
 
+| Path | Purpose |
+| --- | --- |
+| [`listar.sh`](listar.sh) | Project reference |
+| [`LICENSE`](LICENSE) | License terms |
+
+The default branch is `master`. Use the tracked manifests and scripts above
+when preparing changes; keep local credentials and generated files out of commits.
