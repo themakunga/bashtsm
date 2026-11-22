@@ -1,5 +1,8 @@
 # ELIMINAR SESIONES TSM
 
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
+
 - [Historia](#historia)
 - [A considerar](#A considerar)
 - [Como usar](#Como Usar)
